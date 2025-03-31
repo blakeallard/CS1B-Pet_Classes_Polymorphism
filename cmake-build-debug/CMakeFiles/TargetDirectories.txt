@@ -1,0 +1,3 @@
+C:/Users/ekalb/CLionProjects/Spotify_Artist_Program/cmake-build-debug/CMakeFiles/Spotify_Artist_Program.dir
+C:/Users/ekalb/CLionProjects/Spotify_Artist_Program/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ekalb/CLionProjects/Spotify_Artist_Program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
